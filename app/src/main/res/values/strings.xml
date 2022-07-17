@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="temperature">Temperature</string>
+    <string name="value">0.00</string>
+</resources>
